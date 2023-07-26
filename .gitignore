@@ -13,6 +13,7 @@ Thumbs.db
 [Mm]emoryCaptures/
 
 # IDEs
+*.sln
 **/bin/Debug
 **/bin/Release
 **/packages
